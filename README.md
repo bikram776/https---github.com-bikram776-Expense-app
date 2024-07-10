@@ -1,5 +1,4 @@
-Click the below link to view the Project Live
-https---github.com-bikram776-Expense-app
+Click the link to view the Project Live https://bikram776.github.io/https---github.com-bikram776-Expense-app/
 
 ## Available Scripts
 
